@@ -83,7 +83,7 @@ pip install freezegun
 ```
 
 ## How To Run the Program
-Download the files from this repository (if not previously downloaded) after the dependencies have been installed, then place them in a separate folder. Go to your downloaded folder by [cd] (https://www.alphr.com/change-directory-in-cmd/) into your command or terminal window. Then, enter the command that follows to run the program:
+Download the files from this repository (if not previously downloaded) after the dependencies have been installed, then place them in a separate folder. Go to your downloaded folder by [cd](https://www.alphr.com/change-directory-in-cmd/) into your command or terminal window. Then, enter the command that follows to run the program:
 ```
 python main.py
 ```
@@ -110,7 +110,7 @@ After doing this, the CLI will be launched, and your Habit Tracker will display 
 ```
 
 ## Running tests
-To run the test, use [cd] (https://www.alphr.com/change-directory-in-cmd/) to navigate to the test folder (included within the repository), and then type ```pytest```. 
+To run the test, use [cd](https://www.alphr.com/change-directory-in-cmd/) to navigate to the test folder (included within the repository), and then type ```pytest```. 
 
 # Usage
 
